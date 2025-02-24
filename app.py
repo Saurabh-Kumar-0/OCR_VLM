@@ -33,7 +33,7 @@ if uploaded_file is not None:
                         "type": "image",
                         "image": image,
                     },
-                    {"type": "text", "text": "Run Optical Character recognition on the image and don't translate Hindi to English."},
+                    {"type": "text", "text": "Extract text and print it"},
                 ],
             }
         ]
